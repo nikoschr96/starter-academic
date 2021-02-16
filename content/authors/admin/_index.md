@@ -24,14 +24,7 @@ interests:
 - Medical Informatics
 
 # Education to show in About widget
-education:
--integrated masters:
-    institution: Aristotle University of Thessaloniki
-    year: 2020
-  -thesis:
-    Analysis of coupling direction of time series 
-    using multivariate empirical mode decomposition 
-    to extract causal relationships (Grade: 10/10)
+
 
 # courses:
 #  - course: PhD in Artificial Intelligence
