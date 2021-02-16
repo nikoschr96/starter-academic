@@ -31,9 +31,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-      #  * Editing - Correcting databases
-        *	Installation of operating systems / formatting hard drives
-        *	Hardware installation and maintenance ( graphics cards, scanners, printers)
-        *	Updating computer systems / firewall - antivirus installations
+        * Analysing
+        * Modelling
+        * Deploying
         
 ---
