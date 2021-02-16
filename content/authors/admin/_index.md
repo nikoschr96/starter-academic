@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nikolaos Christoforidis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Electrical and Computer Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Aristotle University of Thessaloniki
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include coding, artificial intelligence and biomedical engineering.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- IT administration
+- Software Development
 
 # Education to show in About widget
 education:
