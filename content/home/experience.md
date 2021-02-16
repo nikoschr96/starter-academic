@@ -26,8 +26,8 @@ experience:
     company: Central Library
     company_url: ''
     location: Aristotle University of Thessaloniki
-    date_start: '2017-03'
-    date_end: '2017-11'
+    date_start: '2017-03-01'
+    date_end: '2017-11-01'
     description: |2-
         Responsibilities include:
         
