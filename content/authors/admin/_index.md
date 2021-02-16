@@ -54,9 +54,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: resume
- #  icon_pack: ai
-  # link: media/resume.pdf
+- icon: resume
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nikoschr96@yahoo.com"
@@ -67,4 +67,4 @@ highlight_name: false
 
 Nikolaos Christoforidis is an Electrical and Computer Engineer. He graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10.00 GPA. His interests include software development, IT administration, Medical Informatics and Artificial Intelligence.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}cv{{< /staticref >}}.
