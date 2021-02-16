@@ -11,7 +11,7 @@ role: Electrical and Computer Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Aristotle University of Thessaloniki
-  url: 
+  url: http://ee.auth.gr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include software development, artificial intelligence and medical informatics.
@@ -41,18 +41,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nikoschr96
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: linkedin.com/in/nikolaos-christoforidis-3255b285
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
