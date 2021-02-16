@@ -46,7 +46,7 @@ social:
   link: https://github.com/nikoschr96
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/nikolaos-christoforidis-3255b285
+  link: https://linkedin.com/in/nikolaos-christoforidis-3255b285
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
