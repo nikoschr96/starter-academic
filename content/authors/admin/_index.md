@@ -31,7 +31,7 @@ education:
   thesis:
     Analysis of coupling direction of time series 
     using multivariate empirical mode decomposition 
-    to extract causal relationships
+    to extract causal relationships (Grade: 10/10)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
