@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 9/10
   icon: Matlab_Logo
   icon_pack: custom
   name: Matlab
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 8/10
+  icon: C_Logo
+  icon_pack: custom
+  name: C
+- description: 7/10
+  icon: Cpp_Logo
+  icon_pack: custom
+  name: C++
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
