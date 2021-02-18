@@ -66,4 +66,4 @@ highlight_name: false
 
 Nikolaos Christoforidis is an Electrical and Computer Engineer. He graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10.00 GPA. His interests include software development, IT administration and signal proccessing.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
