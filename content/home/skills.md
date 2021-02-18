@@ -19,15 +19,15 @@ feature:
 - description: 9/10
   icon: Matlab_Logo
   icon_pack: custom
-  name: Matlab
+  name: 
 - description: 8/10
   icon: C_Logo
   icon_pack: custom
-  name: C
+  name: 
 - description: 7/10
   icon: Cpp_Logo
   icon_pack: custom
-  name: C++
+  name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
