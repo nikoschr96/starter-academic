@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- certificate_url: "https://drive.google.com/file/d/1U9j7yNEbWL34S0_a5xqcGYtgAsiTeVks/view?usp=sharing"
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Aristotle University of Thessaloniki
-  organization_url: ""
+  date_start: "2019-3-04"
+  description: "Keywords: Hackathon, Docker, Node js"
+  organization: Intelligent Systems & Software Engineering Labgroup
+  organization_url: "https://issel.ee.auth.gr/en/13-2/"
   title: Using Open Datasets and Services towards Rapid Software Prototyping
-  url: "https://issel.ee.auth.gr/en/13-2/"
+  url: ""
 
 ---
