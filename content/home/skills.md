@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 9/10
+- description:
   icon: Matlab_Logo
   icon_pack: custom
   name: 
-- description: 8/10
+- description: 
   icon: C_Logo
   icon_pack: custom
   name: 
-- description: 7/10
+- description: 
   icon: Cpp_Logo
   icon_pack: custom
   name: 
