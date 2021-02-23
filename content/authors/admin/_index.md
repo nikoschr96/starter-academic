@@ -64,6 +64,6 @@ email: "nikoschr96@yahoo.com"
 highlight_name: false
 ---
 
-I'm Nick, I am an Electrical and Computer Engineer. I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10.00 GPA. My interests include software development, medical informatics and signal proccessing. Besides CS, I really like mountain biking and reading about psychology and philosophy (especially Stoicism).
+I'm Nick, I am an Electrical and Computer Engineer. I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10 GPA. My interests include software development, medical informatics and signal proccessing. Besides CS, I really like mountain biking and reading about psychology and philosophy (especially Stoicism).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
