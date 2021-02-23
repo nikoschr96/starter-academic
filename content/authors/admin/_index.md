@@ -58,7 +58,7 @@ social:
   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "nikoschr96@yahoo.com"
+email: "nchristoforidis@protonmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
