@@ -14,13 +14,13 @@ organizations:
   url: http://ee.auth.gr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include software development, medical informatics and signal processing.
+bio: My interests include Deep Learning, Computer Vision and Medical Informatics.
 
 # Interests to show in About widget
 interests:
-- Software Development
-- Medical informatics
-- Signal Processing
+- Deep Learning
+- Computer Vision
+- Medical Informatics
 
 # Education to show in About widget
 
