@@ -14,13 +14,13 @@ organizations:
   url: http://ee.auth.gr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Deep Learning, Computer Vision and System Administration.
+bio: My interests include Deep Learning, Computer Vision and Systems Administration.
 
 # Interests to show in About widget
 interests:
 - Deep Learning
 - Computer Vision
-- System Administration
+- Systems Administration
 
 # Education to show in About widget
 
@@ -64,6 +64,6 @@ email: "nchristoforidis@protonmail.com"
 highlight_name: false
 ---
 
-I'm Nick, I am an Electrical and Computer Engineer. I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10 GPA. My interests include Deep Learning, Computer Vision and System Administration. Besides CS, I really like cycling and reading about psychology and philosophy (especially Stoicism).
+I'm Nick, I am an Electrical and Computer Engineer. I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10 GPA. My interests include Deep Learning, Computer Vision and Systems Administration. Besides CS, I really like cycling and reading about psychology and philosophy (especially Stoicism).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
