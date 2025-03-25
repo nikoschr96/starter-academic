@@ -14,13 +14,15 @@ organizations:
   url: http://ee.auth.gr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Deep Learning, Computer Vision and Systems Administration.
+bio: My interests include Quality Assurance, Deep Learning, Computer Vision and Systems Administration.
 
 # Interests to show in About widget
 interests:
+- Quality Assurance
+- Test automation
 - Deep Learning
 - Computer Vision
-- Systems Administration
+- Systems Administration & Cloud services
 
 # Education to show in About widget
 
