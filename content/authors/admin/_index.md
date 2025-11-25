@@ -53,7 +53,7 @@ social:
   link: https://linkedin.com/in/nikolaos-christoforidis-3255b285
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/cv_christoforidis_final.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 - icon: resume
   icon_pack: ai
