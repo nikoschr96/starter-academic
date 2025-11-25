@@ -21,37 +21,26 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: CERTH - Visual Computing Lab
-    company: RESEARCH ASSISTANT - COMPUTER VISION
+  - title: BETA CAE SYSTEMS (NOW PART OF CADENCE DESIGN SYSTEMS)
+    company: QUALITY ENGINEER II (SPECIALIZED IN 3D GRAPHICS)
     company_url: ''
-    location: Thessaloniki - GR
-    date_start: '2021-06'
-    date_end: '2021-10'
+    location: Thessaloniki, GR
+    date_start: '2021-11'
+    date_end:
     description: |2-
         Responsibilities include:
 
-        * Worked on a research project called ”e-OUTLAND”, regarding early forest-fire detection using images and video     footage from drones.
-        * Studied state-of-the-art algorithms on Object Detection
-        * Setting up Object Detection algorithms on the ”mmdetection” API
-        * Keywords: Deep Learning, Object Detection, transformers, Pytorch, mmdetection
-
-        
----
-
-experience:
-  - title: Internship at IT department
-    company: Central Library
-    company_url: ''
-    location: Aristotle University of Thessaloniki
-    date_start: '2017-03-01'
-    date_end: '2017-11-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Editing - Correcting databases
-        *	Installation of operating systems / formatting hard drives
-        *	Hardware installation and maintenance ( graphics cards, scanners, printers)
-        *	Updating computer systems / firewall - antivirus installations
+        * Develop and execute detailed testing plans
+        * Monitor automated tests mechanisms (regression testing)
+        * Interactive (manual) testing
+        * Develop python scripts for automated tests
+        * Verification of bug fixes, validation of expected behavior of new features
+        * Detailed bug investigation, reporting problems using JIRA ticketing system
+        * Performance testing - Graphics oriented (GPU utilization, fps, VRAM, RAM)
+        * Manual and automated Virtual Reality testing (oculus, HTC Vive)
+        * Cloud testing (AWS, Azure)
+        * GUI testing (Squish)
         
 ---
