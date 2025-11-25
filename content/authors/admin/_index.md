@@ -57,7 +57,7 @@ social:
 # and uncomment the lines below.
 - icon: resume
   icon_pack: ai
-  link: media/cv_christoforidis_final.pdf
+  link: static/media/cv_christoforidis_final.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nchristoforidis@protonmail.com"
