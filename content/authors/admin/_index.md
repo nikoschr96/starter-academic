@@ -68,4 +68,4 @@ highlight_name: false
 
 I'm Nick, I am an Electrical and Computer Engineer. I graduated from the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki in August 2020 with a 7.25/10 GPA. I have been working as a Quality Assurance Engineer since 2021 for BETA CAE Systems (now part of Cadence Design Systems) which is a global leader in Mechanical Engineering simulations. My interests include Deep Learning, Computer Vision and Systems Administration. Besides CS, I really like calisthenics, cycling and reading about psychology and philosophy (especially Stoicism).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_christoforidis.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_christoforidis.pdf" "newtab" >}}cv{{< /staticref >}}.
