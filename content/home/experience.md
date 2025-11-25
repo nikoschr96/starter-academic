@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: CERTH - Visual Computing Lab
+    company: RESEARCH ASSISTANT - COMPUTER VISION
+    company_url: ''
+    location: Thessaloniki - GR
+    date_start: '2021-06'
+    date_end: '2021-10'
+    description: |2-
+        Responsibilities include:
+
+        * Worked on a research project called ”e-OUTLAND”, regarding early forest-fire detection using images and video     footage from drones.
+        * Studied state-of-the-art algorithms on Object Detection
+        * Setting up Object Detection algorithms on the ”mmdetection” API
+        * Keywords: Deep Learning, Object Detection, transformers, Pytorch, mmdetection
+
+        
+---
+
+experience:
   - title: Internship at IT department
     company: Central Library
     company_url: ''
