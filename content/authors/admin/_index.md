@@ -55,9 +55,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/cv_christoforidis_final.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: resume
-  icon_pack: ai
-  link: static/media/cv_christoforidis_final.pdf
+#- icon: resume
+#  icon_pack: ai
+#  link: static/media/cv_christoforidis_final.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "nchristoforidis@protonmail.com"
